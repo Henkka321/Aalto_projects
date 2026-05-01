@@ -1,0 +1,8369 @@
+[
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2928,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-25T18:50:33.751Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2928,
+        "minTemp": 2839
+      }
+    },
+    "timestamp": "2026-03-25T18:50:33.772Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2928,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-25T18:50:33.751Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2928,
+        "minTemp": 2839
+      }
+    },
+    "timestamp": "2026-03-25T18:50:33.772Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2848,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-25T19:00:00.533Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2839
+      }
+    },
+    "timestamp": "2026-03-25T19:00:00.533Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 3223,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-25T20:04:47.667Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 3223,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-25T20:04:47.668Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 3223,
+        "minTemp": 3223
+      }
+    },
+    "timestamp": "2026-03-25T20:04:47.668Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-25T21:00:01.222Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-25T21:00:01.222Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-25T22:00:00.823Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-25T22:00:00.824Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-25T23:00:01.041Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-25T23:00:01.042Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T00:00:00.461Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T00:00:00.462Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T01:00:00.67Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T01:00:00.671Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T02:00:00.595Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T02:00:00.595Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T03:00:01.272Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T03:00:01.272Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T04:00:00.136Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T04:00:00.137Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T05:00:00.42Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T05:00:00.42Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T06:00:00.712Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T06:00:00.713Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T07:00:00.765Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T07:00:00.766Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T08:00:01.103Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T08:00:01.104Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T09:00:00.754Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T09:00:00.755Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T10:00:00.499Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T10:00:00.5Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T11:00:00.338Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T11:00:00.339Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T12:00:00.235Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T12:00:00.236Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T13:00:01.108Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T13:00:01.109Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T14:00:00.385Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T14:00:00.385Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T15:00:01.015Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T15:00:01.016Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T16:00:01.049Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T16:00:01.049Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T17:00:01.063Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T17:00:01.063Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T18:00:00.21Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T18:00:00.21Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T19:00:01.189Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T19:00:01.189Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T20:00:01.463Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T20:00:01.463Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T21:00:00.615Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T21:00:00.615Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T22:00:00.991Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T22:00:00.991Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-26T23:00:00.274Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-26T23:00:00.274Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T00:00:00.151Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T00:00:00.152Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T01:00:01.099Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T01:00:01.1Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T02:00:00.813Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T02:00:00.814Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T03:00:00.975Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T03:00:00.975Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T04:00:00.586Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T04:00:00.587Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T05:00:00.273Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T05:00:00.273Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T06:00:01.048Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T06:00:01.048Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T07:00:01.229Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T07:00:01.229Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T08:00:00.693Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T08:00:00.694Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T09:00:01.099Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T09:00:01.099Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T10:00:00.218Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T10:00:00.218Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T11:00:00.889Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T11:00:00.89Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T12:00:00.575Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T12:00:00.575Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T13:00:01.109Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T13:00:01.109Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T14:00:01.323Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T14:00:01.324Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T15:00:00.467Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T15:00:00.467Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T16:00:00.349Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T16:00:00.35Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T17:00:01.109Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T17:00:01.11Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T18:00:00.698Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T18:00:00.698Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T19:00:01.007Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T19:00:01.008Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T19:00:01.007Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T19:00:01.008Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T19:00:01.007Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T19:00:01.008Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T19:00:01.007Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T19:00:01.008Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T20:00:00.752Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T20:00:00.752Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T21:00:00.549Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T21:00:00.549Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T22:00:01.11Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T22:00:01.111Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-27T23:00:00.621Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-27T23:00:00.621Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T00:00:00.237Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T00:00:00.237Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T01:00:00.338Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T01:00:00.338Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T02:00:00.768Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T02:00:00.769Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T03:00:00.623Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T03:00:00.623Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T04:00:01.25Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T04:00:01.251Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T05:00:00.607Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T05:00:00.607Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T06:00:00.996Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T06:00:00.997Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T07:00:00.994Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T07:00:00.995Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T08:00:00.915Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T08:00:00.915Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T09:00:00.546Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T09:00:00.546Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T10:00:00.399Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T10:00:00.4Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T11:00:00.89Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T11:00:00.89Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T12:00:00.959Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T12:00:00.959Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T13:00:01.261Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T13:00:01.262Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T14:00:00.659Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T14:00:00.66Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T15:00:00.359Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T15:00:00.36Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T16:00:00.919Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T16:00:00.919Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T17:00:00.441Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T17:00:00.442Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T18:00:00.552Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T18:00:00.553Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T18:00:00.552Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T18:00:00.553Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T19:00:00.963Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T19:00:00.963Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T20:00:01.116Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T20:00:01.117Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T21:00:00.823Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T21:00:00.823Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T22:00:00.67Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T22:00:00.671Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-28T23:00:01.239Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-28T23:00:01.24Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T00:00:00.953Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T00:00:00.955Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T01:00:01.229Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T01:00:01.229Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T02:00:00.547Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T02:00:00.547Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T03:00:00.669Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T03:00:00.669Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T04:00:01.091Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T04:00:01.091Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T05:00:00.357Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T05:00:00.357Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T06:00:00.507Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T06:00:00.507Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T07:00:01.228Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T07:00:01.228Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T08:00:01.446Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T08:00:01.447Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T09:00:00.298Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T09:00:00.299Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T10:00:00.556Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T10:00:00.556Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T11:00:00.632Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T11:00:00.633Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T12:00:01.305Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T12:00:01.305Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T13:00:00.775Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T13:00:00.775Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T14:00:00.769Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T14:00:00.77Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T15:00:00.415Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T15:00:00.415Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T16:00:00.966Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T16:00:00.967Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T17:00:00.982Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T17:00:00.983Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T18:00:00.471Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T18:00:00.472Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T19:00:01.144Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T19:00:01.144Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T21:00:00.549Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T21:00:00.55Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T22:00:00.249Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T22:00:00.25Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-29T23:00:00.517Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-29T23:00:00.517Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T00:00:00.172Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T00:00:00.173Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T01:00:00.439Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T01:00:00.439Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T02:00:00.389Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T02:00:00.389Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T03:00:00.492Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T03:00:00.492Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T04:00:00.214Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T04:00:00.214Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T05:00:01.143Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T05:00:01.144Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T06:00:00.959Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T06:00:00.959Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T07:00:01.129Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T07:00:01.129Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T08:00:01.354Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 62, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T08:00:01.355Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T09:00:01.167Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T09:00:01.167Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T10:00:00.258Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T10:00:00.258Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T11:00:00.458Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T11:00:00.459Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T12:00:01.099Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T12:00:01.099Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T13:00:00.707Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T13:00:00.708Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T14:00:00.439Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T14:00:00.44Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T15:00:00.869Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T15:00:00.869Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T16:00:00.335Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T16:00:00.336Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T17:00:00.606Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T17:00:00.606Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T18:00:00.891Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T18:00:00.892Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T19:00:00.679Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T19:00:00.68Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T20:00:00.615Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T21:00:01.204Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T21:00:01.205Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T22:00:00.989Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T22:00:00.989Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-30T23:00:00.538Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-30T23:00:00.539Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T00:00:00.387Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T00:00:00.388Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T01:00:00.407Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T01:00:00.407Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T02:00:00.861Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T02:00:00.862Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T03:00:00.396Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T03:00:00.397Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T04:00:00.637Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T04:00:00.637Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T05:00:00.618Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T05:00:00.618Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T06:00:00.477Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T06:00:00.478Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T07:00:01.175Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T07:00:01.175Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T09:00:00.299Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T09:00:00.299Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T10:00:00.379Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T10:00:00.38Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T11:00:00.332Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T11:00:00.332Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T12:00:00.689Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T12:00:00.69Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T13:00:00.936Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T13:00:00.936Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T14:00:01.072Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T14:00:01.073Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T15:00:00.363Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T15:00:00.363Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T16:00:00.9Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T16:00:00.9Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T17:00:01.101Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T17:00:01.101Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T18:00:00.975Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T18:00:00.975Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T19:00:01.272Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T19:00:01.272Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T20:00:01.037Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T20:00:01.038Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T21:00:00.996Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T21:00:00.996Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T22:00:00.256Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T22:00:00.257Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-03-31T23:00:00.95Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-03-31T23:00:00.95Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T00:00:00.393Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-04-01T00:00:00.393Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T01:00:00.822Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-04-01T01:00:00.823Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T02:00:00.329Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-04-01T02:00:00.329Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T03:00:00.399Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-04-01T03:00:00.399Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T04:00:00.639Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-04-01T04:00:00.64Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2937,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T05:00:01.25Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2937,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-04-01T05:00:01.25Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2991,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T06:00:00.785Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 3187,
+        "minTemp": 2937
+      }
+    },
+    "timestamp": "2026-04-01T06:00:00.786Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2722,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T06:34:00.746Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T07:00:00.408Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 43, 17, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 3000,
+        "minTemp": 2660
+      }
+    },
+    "timestamp": "2026-04-01T07:00:00.408Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T08:00:01.57Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T08:00:01.57Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T09:00:00.489Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T09:00:00.49Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T10:00:00.642Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T10:00:00.643Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T11:00:00.989Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T11:00:00.991Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T12:00:01.377Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T12:00:01.378Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T13:00:00.825Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T13:00:00.825Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T14:00:01.261Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T14:00:01.261Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T15:00:00.341Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T15:00:00.342Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T16:00:01.22Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T16:00:01.221Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T17:00:00.132Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T17:00:00.133Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T18:00:01.158Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T18:00:01.158Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T19:00:00.765Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T19:00:00.765Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T20:00:01.264Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T20:00:01.264Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T21:00:00.481Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T21:00:00.481Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T22:00:00.808Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T22:00:00.808Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-01T23:00:00.872Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-01T23:00:00.872Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T00:00:01.247Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T00:00:01.249Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T01:00:00.678Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T01:00:00.679Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T02:00:01.117Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T02:00:01.118Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T03:00:00.606Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T03:00:00.606Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T04:00:00.674Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T04:00:00.674Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T05:00:00.241Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T05:00:00.241Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T06:00:00.779Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T06:00:00.78Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T07:00:00.767Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T07:00:00.768Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T08:00:01.301Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T08:00:01.301Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T09:00:00.837Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T09:00:00.837Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T10:00:01.074Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T10:00:01.075Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T11:00:00.611Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T11:00:00.611Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T12:00:01.005Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T12:00:01.006Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T13:00:00.662Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T13:00:00.662Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T14:00:00.796Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T14:00:00.797Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T15:00:00.36Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T15:00:00.361Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T16:00:00.608Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T16:00:00.608Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T17:00:00.914Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T17:00:00.914Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T18:00:01.187Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T18:00:01.188Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T19:00:00.209Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T19:00:00.209Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T20:00:01.678Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T20:00:01.678Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T21:00:00.915Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 62, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T21:00:00.917Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T22:00:01.273Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T22:00:01.274Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-02T23:00:01.049Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-02T23:00:01.049Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T00:00:00.442Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T00:00:00.442Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T01:00:00.305Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T01:00:00.305Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T02:00:00.983Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T02:00:00.983Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T03:00:00.247Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T03:00:00.247Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T04:00:00.579Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T04:00:00.58Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T05:00:00.999Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 62, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T05:00:00.999Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T06:00:00.607Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T06:00:00.607Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T07:00:00.597Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T07:00:00.597Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T08:00:00.657Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T08:00:00.658Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T09:00:00.539Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T09:00:00.539Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T10:00:00.428Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T10:00:00.428Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T11:00:01.036Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T11:00:01.037Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T12:00:00.946Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T12:00:00.946Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T13:00:01.173Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T13:00:01.174Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T14:00:01.155Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T14:00:01.156Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T15:00:00.298Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T15:00:00.298Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T16:00:00.355Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T16:00:00.355Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T17:00:00.799Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T17:00:00.799Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T18:00:00.489Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 62, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T18:00:00.489Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T19:00:00.61Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T19:00:00.61Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T20:00:00.955Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T20:00:00.956Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T21:00:00.489Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T21:00:00.49Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T22:00:00.8Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T22:00:00.8Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-03T23:00:00.259Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-03T23:00:00.26Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T00:00:01.049Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T00:00:01.049Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T01:00:00.862Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T01:00:00.862Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T02:00:00.866Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T02:00:00.867Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T03:00:00.873Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T03:00:00.873Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T04:00:00.376Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T04:00:00.376Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T05:00:00.606Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T05:00:00.606Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T06:00:01.465Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T06:00:01.466Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T07:00:00.749Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T07:00:00.749Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T08:00:01.102Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T08:00:01.103Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T09:00:01.217Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T09:00:01.217Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T10:00:00.791Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T10:00:00.791Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T11:00:00.463Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T11:00:00.463Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T12:00:00.87Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T12:00:00.871Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T13:00:00.926Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 62, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T13:00:00.926Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T14:00:01.339Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T14:00:01.339Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T15:00:00.97Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T15:00:00.971Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T16:00:01.37Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T16:00:01.37Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T17:00:01.098Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T17:00:01.098Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T18:00:00.808Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T18:00:00.809Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T19:00:00.782Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T19:00:00.782Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T20:00:01.022Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T20:00:01.022Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T21:00:00.754Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T21:00:00.755Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T22:00:00.879Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T22:00:00.879Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-04T23:00:00.975Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-04T23:00:00.975Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T00:00:00.449Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T00:00:00.449Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T01:00:00.7Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T01:00:00.7Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T02:00:01.238Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T02:00:01.238Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T03:00:01.114Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T03:00:01.115Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T04:00:01.019Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T04:00:01.019Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T05:00:00.879Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T05:00:00.88Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T06:00:00.789Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T06:00:00.789Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T07:00:00.323Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T07:00:00.324Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T08:00:01.325Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T08:00:01.325Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T09:00:00.286Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T09:00:00.287Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T10:00:01.018Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T10:00:01.018Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T11:00:00.717Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 62, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T11:00:00.718Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T12:00:00.429Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T12:00:00.429Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T13:00:01.255Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T13:00:01.256Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T14:00:01.469Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T14:00:01.47Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T15:00:00.536Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T15:00:00.537Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T16:00:00.776Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T16:00:00.777Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T17:00:00.208Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T17:00:00.209Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T18:00:00.998Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T18:00:00.999Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T19:00:00.356Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T19:00:00.356Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T20:00:01.12Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T20:00:01.121Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T21:00:00.86Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T21:00:00.86Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T22:00:00.924Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 62, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T22:00:00.925Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-05T23:00:00.303Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-05T23:00:00.304Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T00:00:00.951Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T00:00:00.951Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T01:00:00.666Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T01:00:00.667Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T02:00:01.218Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T02:00:01.219Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T03:00:00.265Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T03:00:00.266Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T04:00:00.942Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T04:00:00.943Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T05:00:00.501Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T05:00:00.502Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T06:00:00.472Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T06:00:00.472Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T07:00:00.576Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T07:00:00.577Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T08:00:01.421Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T08:00:01.422Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T09:00:00.619Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T09:00:00.619Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T10:00:01.159Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T10:00:01.159Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T11:00:00.369Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T11:00:00.369Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T12:00:00.926Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T12:00:00.926Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T13:00:00.659Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T13:00:00.659Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T14:00:00.711Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T14:00:00.711Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T15:00:01.068Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T15:00:01.068Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T16:00:01.039Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T16:00:01.04Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T17:00:00.659Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T17:00:00.659Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T18:00:01.028Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T18:00:01.028Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T19:00:00.769Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T19:00:00.769Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T20:00:01.518Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T20:00:01.518Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T21:00:00.75Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T21:00:00.75Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T22:00:01.006Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T22:00:01.006Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-06T23:00:01.029Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-06T23:00:01.029Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T00:00:00.588Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T00:00:00.615Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T01:00:00.455Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T01:00:00.456Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T02:00:01.196Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T02:00:01.197Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T03:00:00.833Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T03:00:00.834Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T04:00:00.334Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T04:00:00.334Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T05:00:00.38Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T05:00:00.38Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T06:00:00.715Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T06:00:00.716Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T07:00:00.709Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T07:00:00.709Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T08:00:01.039Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T08:00:01.04Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T08:00:01.039Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T08:00:01.04Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T09:00:00.425Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T09:00:00.425Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T10:00:00.659Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T10:00:00.661Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T11:00:01.048Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T11:00:01.048Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T12:00:00.838Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T12:00:00.838Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T13:00:00.388Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T13:00:00.388Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T14:00:00.809Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T14:00:00.809Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T15:00:00.969Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T15:00:00.969Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T16:00:01.045Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T16:00:01.045Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T17:00:00.465Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T17:00:00.465Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2696,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T18:00:00.715Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2696,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T18:00:00.715Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 3330,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T18:36:00.475Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 3000,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T19:00:00.785Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 35, 25, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 3330,
+        "minTemp": 2696
+      }
+    },
+    "timestamp": "2026-04-07T19:00:00.785Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2803,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T19:28:00.365Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T20:00:00.543Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 43, 17, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2991,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-07T20:00:00.544Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T21:00:00.931Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2535
+      }
+    },
+    "timestamp": "2026-04-07T21:00:00.932Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T22:00:00.731Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-07T22:00:00.732Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-07T23:00:00.161Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-07T23:00:00.162Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T00:00:01.121Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T00:00:01.122Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T01:00:00.461Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T01:00:00.462Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T02:00:00.531Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T02:00:00.532Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T03:00:00.751Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T03:00:00.752Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T04:00:00.591Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T04:00:00.592Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T06:00:00.784Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T06:00:00.784Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T07:00:00.204Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T07:00:00.204Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T08:00:01.644Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T08:00:01.644Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T09:00:00.694Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T09:00:00.694Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T10:00:00.484Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T10:00:00.484Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T11:00:00.804Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T11:00:00.804Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T12:00:00.634Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T12:00:00.634Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T13:00:00.064Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T13:00:00.064Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T14:00:01.154Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T14:00:01.154Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T15:00:00.354Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T15:00:00.354Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T16:00:01.544Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T16:00:01.544Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T17:00:00.644Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T17:00:00.644Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T18:00:00.494Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T18:00:00.495Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T19:00:00.934Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T19:00:00.934Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T20:00:01.204Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T20:00:01.204Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T21:00:00.264Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T21:00:00.264Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T22:00:01.074Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T22:00:01.074Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-08T23:00:00.824Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-08T23:00:00.824Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T00:00:00.354Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T00:00:00.354Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T01:00:00.794Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T01:00:00.794Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T02:00:01.014Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T02:00:01.014Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T03:00:00.074Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T03:00:00.074Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T04:00:00.934Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T04:00:00.934Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T05:00:00.514Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T05:00:00.514Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T06:00:01.444Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T06:00:01.444Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T07:00:00.664Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T07:00:00.665Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T08:00:00.843Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T08:00:00.843Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T09:00:00.315Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T09:00:00.315Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T10:00:01.268Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T10:00:01.269Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T11:00:00.621Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T11:00:00.622Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T12:00:00.703Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T12:00:00.703Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T13:00:00.21Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T13:00:00.21Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T14:00:00.697Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T14:00:00.698Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T15:00:00.455Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T15:00:00.455Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T16:00:00.933Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T16:00:00.933Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T17:00:00.974Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T17:00:00.975Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T18:00:01.159Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T18:00:01.16Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T19:00:00.388Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 62, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T19:00:00.389Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T20:00:01.567Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T20:00:01.567Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T21:00:00.152Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T21:00:00.152Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T22:00:00.899Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T22:00:00.9Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-09T23:00:00.864Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-09T23:00:00.865Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T00:00:00.319Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T00:00:00.32Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T01:00:00.308Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T01:00:00.309Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T02:00:00.881Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T02:00:00.882Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T03:00:00.811Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T03:00:00.812Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T04:00:01.207Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T04:00:01.208Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T05:00:00.577Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T05:00:00.577Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T06:00:01.333Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T06:00:01.333Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T07:00:01.025Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T07:00:01.026Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T08:00:01.625Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T08:00:01.625Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T09:00:00.84Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T09:00:00.841Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T10:00:01.309Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T10:00:01.309Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T11:00:00.999Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T11:00:01Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T12:00:00.572Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T12:00:00.572Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T12:00:00.572Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T12:00:00.572Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T13:00:00.429Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T13:00:00.43Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T14:00:01.098Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T14:00:01.098Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T15:00:00.739Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T15:00:00.74Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T16:00:01.23Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T16:00:01.231Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T17:00:00.68Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T17:00:00.68Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T18:00:00.806Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T18:00:00.807Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T19:00:00.776Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T19:00:00.777Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T20:00:01.214Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T20:00:01.214Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T21:00:00.842Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T21:00:00.843Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T22:00:00.652Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T22:00:00.653Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-10T23:00:00.386Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-10T23:00:00.387Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T00:00:00.848Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T00:00:00.848Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T01:00:00.726Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T01:00:00.727Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T02:00:00.949Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T02:00:00.949Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T03:00:00.977Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T03:00:00.978Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T04:00:00.656Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T04:00:00.656Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T05:00:00.18Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T05:00:00.181Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T06:00:00.519Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T06:00:00.52Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T07:00:00.647Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T07:00:00.647Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T08:00:00.649Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T08:00:00.65Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T09:00:00.298Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T09:00:00.299Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T10:00:00.883Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T10:00:00.883Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T11:00:01.029Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T11:00:01.029Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T12:00:00.357Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T12:00:00.358Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T13:00:00.302Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T13:00:00.302Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T14:00:01.139Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T14:00:01.14Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T15:00:00.674Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T15:00:00.674Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T16:00:01.099Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T16:00:01.099Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T17:00:00.256Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T17:00:00.257Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T18:00:00.469Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T18:00:00.47Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T19:00:00.369Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T19:00:00.369Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T20:00:01.221Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T20:00:01.222Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T21:00:01.049Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T21:00:01.049Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T22:00:00.656Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T22:00:00.656Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-11T23:00:00.501Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-11T23:00:00.502Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T00:00:01.097Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T00:00:01.098Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T01:00:00.88Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T01:00:00.88Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T02:00:01.05Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T02:00:01.051Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T03:00:00.664Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T03:00:00.664Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T04:00:01.25Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T04:00:01.25Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T05:00:00.829Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T05:00:00.831Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T06:00:01.069Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T06:00:01.07Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T07:00:00.537Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T07:00:00.538Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T08:00:01.088Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T08:00:01.089Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T09:00:00.362Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T09:00:00.362Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T10:00:00.428Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T10:00:00.428Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T11:00:00.183Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T11:00:00.183Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T12:00:00.499Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T12:00:00.5Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T13:00:01.056Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T13:00:01.056Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T14:00:01.129Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T14:00:01.13Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T15:00:00.929Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T15:00:00.929Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T16:00:01.189Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T16:00:01.189Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T16:00:01.189Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T16:00:01.189Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T17:00:00.299Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T17:00:00.299Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T18:00:00.839Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T18:00:00.839Z"
+  },
+  {
+    "event": {
+      "temperatureReading": {
+        "altTemp": 2561,
+        "fuelTemp": 0
+      }
+    },
+    "timestamp": "2026-04-12T19:00:01.192Z"
+  },
+  {
+    "event": {
+      "temperatureHistogram": {
+        "bin": [ 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+        "maxTemp": 2561,
+        "minTemp": 2561
+      }
+    },
+    "timestamp": "2026-04-12T19:00:01.192Z"
+  }
+]

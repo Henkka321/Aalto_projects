@@ -1,0 +1,51 @@
+[{
+  "encodedId" : "228TQB",
+  "badgeType" : "DAILY_STEPS",
+  "value" : 10000,
+  "timesAchieved" : 8,
+  "dateTime" : "2026-04-12",
+  "name" : "Trainers (10,000 steps in a day)",
+  "shortName" : "Trainers",
+  "earnedMessage" : "Congrats on earning your first Trainers badge!",
+  "description" : "10,000 steps in a day",
+  "category" : "Daily Steps",
+  "shareText" : "I took 10,000 steps and earned the Trainers badge! #Fitbit"
+},{
+  "encodedId" : "228TQ4",
+  "badgeType" : "DAILY_STEPS",
+  "value" : 5000,
+  "timesAchieved" : 18,
+  "dateTime" : "2026-04-13",
+  "name" : "Boat Shoe (5,000 steps in a day)",
+  "shortName" : "Boat Shoe",
+  "earnedMessage" : "Congrats on earning your first Boat Shoe badge!",
+  "description" : "5,000 steps in a day",
+  "category" : "Daily Steps",
+  "shareText" : "I took 5,000 steps and earned the Boat Shoe badge! #Fitbit"
+},{
+  "encodedId" : "22B8LP",
+  "badgeType" : "LIFETIME_DISTANCE",
+  "value" : 112,
+  "unit" : "KILOMETERS",
+  "timesAchieved" : 1,
+  "dateTime" : "2026-04-11",
+  "name" : "Penguin March (112 lifetime kilometers)",
+  "shortName" : "Penguin March",
+  "earnedMessage" : "Whoa! You've earned the Penguin March badge!",
+  "description" : "112 lifetime kilometers",
+  "category" : "Lifetime Distance",
+  "shareText" : "I covered 112 kilometers with my #Fitbit and earned the Penguin March badge."
+},{
+  "encodedId" : "22B8LN",
+  "badgeType" : "LIFETIME_DISTANCE",
+  "value" : 42,
+  "unit" : "KILOMETERS",
+  "timesAchieved" : 1,
+  "dateTime" : "2026-04-02",
+  "name" : "Marathon (42 lifetime kilometers)",
+  "shortName" : "Marathon",
+  "earnedMessage" : "Whoa! You've earned the Marathon badge!",
+  "description" : "42 lifetime kilometers",
+  "category" : "Lifetime Distance",
+  "shareText" : "I covered 42 kilometers with my #Fitbit and earned the Marathon badge."
+}]

@@ -1,0 +1,1287 @@
+[
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 1717740180
+        }
+      }
+    },
+    "timestamp": "2026-03-25T18:50:42.736Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 1717740180
+        }
+      }
+    },
+    "timestamp": "2026-03-25T18:50:42.736Z"
+  },
+  {
+    "event": {
+      "autoWake": {
+        "stateChanged": {
+          "state": "ON"
+        }
+      }
+    },
+    "timestamp": "2026-03-25T18:51:00.037Z"
+  },
+  {
+    "event": {
+      "autoWake": {
+        "stateChanged": {
+          "state": "ON"
+        }
+      }
+    },
+    "timestamp": "2026-03-25T18:51:00.037Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-03-25T18:51:02.473Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-03-25T18:51:02.473Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774464639
+        }
+      }
+    },
+    "timestamp": "2026-03-25T18:51:03.21Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774464639
+        }
+      }
+    },
+    "timestamp": "2026-03-25T18:51:03.21Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-03-25T18:51:05.229Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-03-25T18:51:05.229Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774464663
+        }
+      }
+    },
+    "timestamp": "2026-03-25T18:51:08.402Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774464663
+        }
+      }
+    },
+    "timestamp": "2026-03-25T18:51:08.402Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-03-25T18:56:16.475Z"
+  },
+  {
+    "event": {
+      "autoWake": {
+        "stateChanged": {
+          "state": "ON"
+        }
+      }
+    },
+    "timestamp": "2026-03-25T19:55:47.167Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-03-25T19:55:47.927Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-03-25T19:55:47.938Z"
+  },
+  {
+    "event": {
+      "autoWake": {
+        "stateChanged": {
+          "state": "ON"
+        }
+      }
+    },
+    "timestamp": "2026-03-25T20:10:04.491Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-03-25T20:10:04.752Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774464666
+        }
+      }
+    },
+    "timestamp": "2026-03-25T20:10:04.782Z"
+  },
+  {
+    "event": {
+      "autoWake": {
+        "stateChanged": {
+          "state": "ON"
+        }
+      }
+    },
+    "timestamp": "2026-03-25T22:10:45.628Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-03-25T22:10:45.941Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774464666
+        }
+      }
+    },
+    "timestamp": "2026-03-25T22:10:45.957Z"
+  },
+  {
+    "event": {
+      "gmapsApp": {
+        "stateError": {
+          "appError": "GMAPS_ERROR_NO_CONNECTION",
+          "appState": "GMAPS_ERROR"
+        }
+      }
+    },
+    "timestamp": "2026-03-26T07:01:48.523Z"
+  },
+  {
+    "event": {
+      "gmapsApp": {
+        "stateError": {
+          "appError": "GMAPS_ERROR_ONBOARDING_INCOMPLETE",
+          "appState": "GMAPS_ERROR"
+        }
+      }
+    },
+    "timestamp": "2026-03-26T07:01:49.292Z"
+  },
+  {
+    "event": {
+      "exappSettings": {
+        "exerciseType": "EXERCISE_TYPE_INVALID",
+        "interaction": "RESET_DEFAULT_VALUES"
+      }
+    },
+    "timestamp": "2026-03-26T07:01:57.047Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-03-26T07:02:15.304Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-03-26T07:02:29.075Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1774504470,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-03-26T08:48:21.381Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774464666
+        }
+      }
+    },
+    "timestamp": "2026-03-26T08:48:21.937Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-03-26T15:12:34.417Z"
+  },
+  {
+    "event": {
+      "musicApp": {
+        "errorField": {
+          "appError": "MUSIC_ERROR_EMPTY_PLAYLIST"
+        }
+      }
+    },
+    "timestamp": "2026-03-26T16:13:28.013Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-03-26T16:13:35.922Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-03-27T05:31:56.573Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1774587450,
+          "oldEndTimestampSec": 1774504470
+        }
+      }
+    },
+    "timestamp": "2026-03-27T06:09:26.014Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774514903
+        }
+      }
+    },
+    "timestamp": "2026-03-27T06:09:26.4Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-03-27T06:21:58.83Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1774587450,
+          "oldEndTimestampSec": 1774587450
+        }
+      }
+    },
+    "timestamp": "2026-03-27T18:13:35.864Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-03-28T07:17:50.199Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1774679310,
+          "oldEndTimestampSec": 1774587450
+        }
+      }
+    },
+    "timestamp": "2026-03-28T07:49:38.578Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774591768
+        }
+      }
+    },
+    "timestamp": "2026-03-28T07:49:39.552Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-03-28T08:08:06.875Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-03-28T08:17:18.648Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-03-28T08:17:27.022Z"
+  },
+  {
+    "event": {
+      "musicApp": {
+        "errorField": {
+          "appError": "MUSIC_ERROR_YTM_APP_DISCONNECTED"
+        }
+      }
+    },
+    "timestamp": "2026-03-28T16:05:23.669Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1774763880,
+          "oldEndTimestampSec": 1774679310
+        }
+      }
+    },
+    "timestamp": "2026-03-29T06:36:09.575Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774684190
+        }
+      }
+    },
+    "timestamp": "2026-03-29T06:36:10.373Z"
+  },
+  {
+    "event": {
+      "gmapsApp": {
+        "stateError": {
+          "appError": "GMAPS_ERROR_NO_CONNECTION",
+          "appState": "GMAPS_ERROR"
+        }
+      }
+    },
+    "timestamp": "2026-03-29T16:58:55.944Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-03-29T16:59:04.767Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-03-29T18:34:16.152Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-03-30T05:13:50.133Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-03-30T06:21:31.41Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1774845660,
+          "oldEndTimestampSec": 1774763880
+        }
+      }
+    },
+    "timestamp": "2026-03-30T10:57:41.925Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774766172
+        }
+      }
+    },
+    "timestamp": "2026-03-30T10:57:42.841Z"
+  },
+  {
+    "event": {
+      "gmapsApp": {
+        "stateError": {
+          "appError": "GMAPS_ERROR_NO_CONNECTION",
+          "appState": "GMAPS_ERROR"
+        }
+      }
+    },
+    "timestamp": "2026-03-30T13:06:44.343Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 1774845660
+        }
+      }
+    },
+    "timestamp": "2026-03-31T03:40:34.933Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774868269
+        }
+      }
+    },
+    "timestamp": "2026-03-31T03:40:37.435Z"
+  },
+  {
+    "event": {
+      "gmapsApp": {
+        "stateError": {
+          "appError": "GMAPS_ERROR_NO_CONNECTION",
+          "appState": "GMAPS_ERROR"
+        }
+      }
+    },
+    "timestamp": "2026-03-31T04:45:24.438Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-03-31T04:45:30.977Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1774928190,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-03-31T05:23:57.276Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774928437
+        }
+      }
+    },
+    "timestamp": "2026-03-31T05:23:57.503Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-03-31T05:39:08.736Z"
+  },
+  {
+    "event": {
+      "musicApp": {
+        "errorField": {
+          "appError": "MUSIC_ERROR_NO_APP_STATUS"
+        }
+      }
+    },
+    "timestamp": "2026-03-31T17:49:50.429Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 1774928190
+        }
+      }
+    },
+    "timestamp": "2026-03-31T21:08:00.408Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774934640
+        }
+      }
+    },
+    "timestamp": "2026-03-31T21:08:01.438Z"
+  },
+  {
+    "event": {
+      "musicApp": {
+        "errorField": {
+          "appError": "MUSIC_ERROR_NO_APP_STATUS"
+        }
+      }
+    },
+    "timestamp": "2026-04-01T07:27:48.053Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775018970,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-04-01T11:04:27.396Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1774991284
+        }
+      }
+    },
+    "timestamp": "2026-04-01T11:04:27.441Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 1775018970
+        }
+      }
+    },
+    "timestamp": "2026-04-02T02:34:52.284Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775041470
+        }
+      }
+    },
+    "timestamp": "2026-04-02T02:34:52.779Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775096220,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-04-02T05:50:00.705Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775097294
+        }
+      }
+    },
+    "timestamp": "2026-04-02T05:50:01.192Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-04-02T05:56:01.489Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-04-02T06:27:10.397Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775107800,
+          "oldEndTimestampSec": 1775096220
+        }
+      }
+    },
+    "timestamp": "2026-04-02T09:52:43.734Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775177010,
+          "oldEndTimestampSec": 1775107800
+        }
+      }
+    },
+    "timestamp": "2026-04-03T01:12:01.813Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775109003
+        }
+      }
+    },
+    "timestamp": "2026-04-03T01:12:02.491Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-04-03T04:59:28.066Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-04-03T05:50:13.054Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775177010,
+          "oldEndTimestampSec": 1775177010
+        }
+      }
+    },
+    "timestamp": "2026-04-03T06:45:04.89Z"
+  },
+  {
+    "event": {
+      "musicApp": {
+        "errorField": {
+          "appError": "MUSIC_ERROR_CANT_FIND_PHONE"
+        }
+      }
+    },
+    "timestamp": "2026-04-03T18:02:00.511Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-04-04T05:57:17.795Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775280060,
+          "oldEndTimestampSec": 1775177010
+        }
+      }
+    },
+    "timestamp": "2026-04-04T06:39:07.135Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775178722
+        }
+      }
+    },
+    "timestamp": "2026-04-04T06:39:08.642Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-04-04T06:50:32.057Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 1775280060
+        }
+      }
+    },
+    "timestamp": "2026-04-04T23:25:55.181Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775284750
+        }
+      }
+    },
+    "timestamp": "2026-04-04T23:25:55.902Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775344290,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-04-05T00:26:42.579Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775368920,
+          "oldEndTimestampSec": 1775344290
+        }
+      }
+    },
+    "timestamp": "2026-04-05T09:21:53.835Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775345158
+        }
+      }
+    },
+    "timestamp": "2026-04-05T09:21:53.881Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 1775368920
+        }
+      }
+    },
+    "timestamp": "2026-04-05T21:37:23.951Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775380917
+        }
+      }
+    },
+    "timestamp": "2026-04-05T21:37:24.439Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775451810,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-04-06T05:37:48.949Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775425046
+        }
+      }
+    },
+    "timestamp": "2026-04-06T05:37:49.005Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775460570,
+          "oldEndTimestampSec": 1775451810
+        }
+      }
+    },
+    "timestamp": "2026-04-06T09:38:53.162Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-04-06T15:45:57.602Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-04-06T16:32:26.417Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-04-07T05:24:40.93Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-04-07T06:17:25.164Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775537760,
+          "oldEndTimestampSec": 1775460570
+        }
+      }
+    },
+    "timestamp": "2026-04-07T08:09:27.499Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775453871
+        }
+      }
+    },
+    "timestamp": "2026-04-07T08:09:32.42Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-04-07T15:04:26.888Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-04-07T15:07:20.102Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-04-08T06:26:44.871Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-04-09T06:22:04.331Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-04-09T07:13:36.859Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775709780,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-04-09T07:55:24.19Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775623612
+        }
+      }
+    },
+    "timestamp": "2026-04-09T07:55:24.516Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 1775709780
+        }
+      }
+    },
+    "timestamp": "2026-04-10T02:22:29.819Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775721333
+        }
+      }
+    },
+    "timestamp": "2026-04-10T02:22:30.265Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775786370,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-04-10T04:52:40.036Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775787752
+        }
+      }
+    },
+    "timestamp": "2026-04-10T04:52:40.198Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_START",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-04-10T05:09:31.945Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "MANUAL_END",
+        "exerciseType": "EXERCISE_TYPE_WORKOUT"
+      }
+    },
+    "timestamp": "2026-04-10T06:01:55.696Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775786370,
+          "oldEndTimestampSec": 1775786370
+        }
+      }
+    },
+    "timestamp": "2026-04-10T06:21:22.712Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775883540,
+          "oldEndTimestampSec": 1775786370
+        }
+      }
+    },
+    "timestamp": "2026-04-11T05:43:42.762Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775796763
+        }
+      }
+    },
+    "timestamp": "2026-04-11T05:44:07.536Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "AUTO_DETECT_START",
+        "exerciseType": "EXERCISE_TYPE_WALK",
+        "gps": "GPS_OFF"
+      }
+    },
+    "timestamp": "2026-04-11T08:46:35.434Z"
+  },
+  {
+    "event": {
+      "autoDetect": {
+        "action": "MANUAL_START_OF_SESSION",
+        "exerciseType": "EXERCISE_TYPE_WALK"
+      }
+    },
+    "timestamp": "2026-04-11T08:46:35.44Z"
+  },
+  {
+    "event": {
+      "exappSession": {
+        "action": "AUTO_STOP_END_TIMEOUT",
+        "exerciseType": "EXERCISE_TYPE_WALK"
+      }
+    },
+    "timestamp": "2026-04-11T09:26:09.168Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 0,
+          "oldEndTimestampSec": 1775883540
+        }
+      }
+    },
+    "timestamp": "2026-04-12T03:54:29.77Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775886246
+        }
+      }
+    },
+    "timestamp": "2026-04-12T03:54:30.732Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775976750,
+          "oldEndTimestampSec": 0
+        }
+      }
+    },
+    "timestamp": "2026-04-12T09:13:12.129Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775966071
+        }
+      }
+    },
+    "timestamp": "2026-04-12T09:13:12.269Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775976750,
+          "oldEndTimestampSec": 1775976750
+        }
+      }
+    },
+    "timestamp": "2026-04-12T09:13:12.686Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "readiness": {
+          "oldTimestampSec": 1775985186
+        }
+      }
+    },
+    "timestamp": "2026-04-12T09:13:12.809Z"
+  },
+  {
+    "event": {
+      "dataProvider": {
+        "sleep": {
+          "newEndTimestampSec": 1775976720,
+          "oldEndTimestampSec": 1775976750
+        }
+      }
+    },
+    "timestamp": "2026-04-12T18:01:37.759Z"
+  }
+]

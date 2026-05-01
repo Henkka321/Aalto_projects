@@ -1,0 +1,3 @@
+session_id,activity_name,average_heart_rate,start_heart_rate,end_heart_rate,duration,start_date_time,end_date_time,session_type,stress_metrics,pause_times
+63727700-2c39-11f1-8080-808080808080,Quick scan,78,73,78,180000,2026-03-30T16:07:21+03:00,2026-03-30T16:10:29+03:00,quick-scan,{meanScore=-1  derivScore=-1  peakScore=-1  hrvBaseline=14.501983642578125  hrvSessionRsmmd=10  Score6=-1},[[8]]
+63251a50-2c39-11f1-8080-808080808080,Quick scan,78,73,78,180000,2026-03-30T16:07:21+03:00,2026-03-30T16:10:29+03:00,quick-scan,{meanScore=-1  derivScore=-1  peakScore=-1  hrvBaseline=14.501983642578125  hrvSessionRsmmd=10  Score6=-1},[[8]]
